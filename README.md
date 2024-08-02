@@ -1,5 +1,10 @@
 # Homework 9: Debugging QR Code API
 
+# Screenshots
+> Docker
+![Hmk9_DockerImage](Embedded_Files/hwk9docker.png)
+<br>
+
 # Debugging Changes
 
 1. *app/main.py*
@@ -84,10 +89,5 @@ image-ref: 'fcamacho3/fastapi:${{ github.sha }}'
 image: fcamacho3/fastapi
 ```
 
-# Screenshots
-> Docker
-![Hmk9_DockerImage](Embedded_Files/hwk9docker.png)
-<br>
 
-> GitHub Actions
-![Hmk9_GitHubImage]()
+
