@@ -86,7 +86,7 @@ image: fcamacho3/fastapi
 
 # Screenshots
 > Docker
-![Hmk9_DockerImage]()
+![Hmk9_DockerImage](Embedded_Files/hwk9docker.png)
 <br>
 
 > GitHub Actions
